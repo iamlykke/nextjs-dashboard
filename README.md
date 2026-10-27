@@ -2,7 +2,7 @@
 
 A full-stack invoicing dashboard built with the Next.js App Router, React Server Components and Postgres.
 
-**Live demo:** nextjs-dashboard-sable-nine-62.vercel.app
+**Live demo:** https://nextjs-dashboard-sable-nine-62.vercel.app
 
 ![Acme Dashboard](public/hero-desktop.png)
 
